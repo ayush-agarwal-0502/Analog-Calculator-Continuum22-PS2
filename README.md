@@ -25,6 +25,19 @@ This was my winning entry .
 
 Design an analog electronic circuit which returns the integrated , differentiated or squared value of the signal depending on the frequency of the input signal .
 
-## Circuit :
+## Solution :
+
+I have designed the circuit in such a way that the circuit :
+
+* Squares the signal : at 100Hz 
+* Differentiates the signal : at 90Hz 
+* Integrates the signal : at 80Hz 
+
+Since the focus of the PS was more on cost efficiency than on accuracy , I have added the 3 results and connected the result to the output . Also , I have used 2nd order butterworth filters , and parameters have been set in such a way that the filter which has a center at 90Hz will only pass 10% of the signal at 80 and 100Hz respectively , and so on for the other filters as well . 
+
+### Squaring part of the circuit :
+
+![image](https://user-images.githubusercontent.com/86561124/163708684-06cd5f66-dd72-4960-9eb6-9f3c1445321c.png)
+
 
 
