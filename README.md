@@ -50,3 +50,8 @@ Since the focus of the PS was more on cost efficiency than on accuracy , I have 
 ### Adder part of the circuit :
 
 ![image](https://user-images.githubusercontent.com/86561124/163708788-4f9c037c-945e-43d3-8650-cfbba30837b1.png)
+
+### Overall circuit :
+
+![Capture](https://user-images.githubusercontent.com/86561124/163709101-436f9c49-b472-4e13-8c65-d1969446bee0.JPG)
+
