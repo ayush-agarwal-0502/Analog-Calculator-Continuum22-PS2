@@ -21,4 +21,10 @@ This was my winning entry .
 ![image](https://user-images.githubusercontent.com/86561124/163708200-502b5463-bab2-41de-b54c-d3dbdb46f389.png)
 ![image](https://user-images.githubusercontent.com/86561124/163708204-8de88d8b-1543-44cc-b110-80832b44ac7f.png)
 
+## The PS , but in short :
+
+Design an analog electronic circuit which returns the integrated , differentiated or squared value of the signal depending on the frequency of the input signal .
+
+## Circuit :
+
 
